@@ -60,7 +60,7 @@ Tenho interesse tanto na construção de APIs robustas no Back-End quanto na cri
 
 ## 📚 Atualmente estudando
 
-📌 Spring Boot 
+📌 Spring Boot  
 📌 Arquitetura de Software  
 📌 JavaScript (Front-End)  
 📌 Flutter com Android SDK  
