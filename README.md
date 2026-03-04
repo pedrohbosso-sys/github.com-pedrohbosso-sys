@@ -60,7 +60,7 @@ Tenho interesse tanto na construção de APIs robustas no Back-End quanto na cri
 
 ## 📚 Atualmente estudando
 
-📌 Spring Boot Avançado  
+📌 Spring Boot 
 📌 Arquitetura de Software  
 📌 JavaScript (Front-End)  
 📌 Flutter com Android SDK  
@@ -79,7 +79,7 @@ Tenho interesse tanto na construção de APIs robustas no Back-End quanto na cri
 
 ## 🎯 Objetivo
 
-Me tornar **Engenheiro de Software especializado em Back-End**, aplicando boas práticas de engenharia, arquitetura limpa e desenvolvimento escalável.
+Me tornar Engenheiro de Software Full Stack, desenvolvendo soluções completas, do Back-End ao Front-End, aplicando arquitetura limpa, boas práticas e escalabilidade.
 
 ---
 
