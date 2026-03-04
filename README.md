@@ -17,9 +17,10 @@
 🎓 Aluno do 3º ano do Ensino Médio  
 💻 Técnico em Desenvolvimento de Sistemas  
 🚀 Foco em desenvolvimento Back-End com Java  
+🌐 Desenvolvedor Front-End com HTML, CSS e JavaScript  
 📚 Em constante evolução e aprendizado  
 
-Busco me tornar **Engenheiro de Software**, especializado em **Back-End**, desenvolvendo **APIs REST robustas e escaláveis**, aplicando boas práticas, arquitetura limpa e metodologias ágeis.
+Tenho interesse tanto na construção de APIs robustas no Back-End quanto na criação de interfaces modernas e responsivas no Front-End, buscando sempre integrar performance, organização e boas práticas no desenvolvimento Full Stack.
 
 ---
 
